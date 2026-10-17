@@ -1,6 +1,6 @@
 
 import unittest
-
+# Updated for the AttendX version control practical
 
 # Sample login function for testing
 def login(username, password):
